@@ -2,7 +2,7 @@
 
 Personal website: https://p-park6.github.io/
 
-Capstone Project on Accessing Climate Data: https://github.com/p-park6/Channel_Islanders
+Capstone Project on Accessing Climate Data: https://github.com/Channelislanders
 
 Data Visualization example: https://github.com/p-park6/los_angeles_migration
 
